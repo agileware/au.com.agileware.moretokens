@@ -6,7 +6,7 @@ The extension adds extra tokens to be used in Schedule reminders.
 
 1. To allow use of case tokens, download and apply patch to CiviCRM:
    [civicirm-core-case-tokens.patch](civicrm-core-case-tokens.patch)
-2. Download [an archive](https://github.com/agileware/au.com.agileware.scheduledcasecrecipients/archive/1.1.tar.gz)
+2. Download [an archive](https://bitbucket.org/agileware/more-tokens-civicrm)
    of the extension
 3. Extract the contents of the extension archive into your CiviCRM Extensions
    Directory
