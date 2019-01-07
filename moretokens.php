@@ -173,7 +173,7 @@ function getAllMembershipCustomFieldTokens() {
     foreach ($customFields as $customField) {
       $tokens[] = array(
         'custom_field_id' => 'custom_' . $customField['id'],
-        'key'             => 'membershipCustomField.' . $customField['name'],
+        'key'             => 'membership_custom_field.' . $customField['name'],
         'label'           => $customField['label'] . ' :: ' . $membershipCustomFieldsGroup['title'],
       );
     }
