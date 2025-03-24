@@ -22,5 +22,9 @@
   </compatibility>
   <civix>
     <namespace>CRM/Moretokens</namespace>
+    <format>25.01.1</format>
   </civix>
+  <classloader>
+    <psr4 prefix="Civi\" path="Civi"/>
+  </classloader>
 </extension>
